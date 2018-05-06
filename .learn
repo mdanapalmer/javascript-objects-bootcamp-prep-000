@@ -9,6 +9,7 @@ resources:
   - 0
   
   var playlist = {
-  'Maaya Sakamoto': 'Garden of Everything'
+  'Maaya Sakamoto': 'Garden of Everything',
+  Aurora: 'Stars'
   }
   
