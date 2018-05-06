@@ -8,8 +8,5 @@ languages:
 resources: 
   - 0
   
-  var playlist = {
-  'Maaya Sakamoto': 'Garden of Everything',
-  Aurora: 'Stars'
-  }
+  
   
