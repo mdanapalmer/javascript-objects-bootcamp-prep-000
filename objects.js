@@ -2,7 +2,7 @@ var playlist = {
   'Maaya Sakamoto': 'Garden of Everything'
 }
 
-function updatePlayList(playlist, artistName, songTitle) {
+function updatePlaylist(playlist, artistName, songName) {
   playlist[artistName] = songName
-  return playlist 
+  return playlist
 }
