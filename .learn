@@ -8,5 +8,7 @@ languages:
 resources: 
   - 0
   
-  var playlist = { 'Maaya Sakamoto': 'Garden of Everything'}
+  var playlist = {
+  'Maaya Sakamoto': 'Garden of Everything'
+  }
   
